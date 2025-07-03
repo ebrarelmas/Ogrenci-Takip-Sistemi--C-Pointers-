@@ -1,0 +1,3 @@
+Ebrar Yildiz Bilgisayar Matematik 3 60 Fizik 4 40 Kimya 4 75 
+Akgun Gokalp Insaat Matematik 3 30 Fizik 4 60 Kimya 4 70 
+Yagmur Kara Elektrik Matematik 3 80 Fizik 3 20 Kimya 4 40 
